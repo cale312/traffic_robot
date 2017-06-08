@@ -1,0 +1,5 @@
+body{background: ghostwhite; margin: 0px; text-align: center;}
+hr{width: 500px;}
+header{background: maroon; color: ghostwhite; padding: 1px; font-size: 2em; letter-spacing: .2em; font-family: sans-serif; box-shadow: 0px 2px 5px black; margin: 0px;}
+.robot-wrapper{display: inline-block; border: solid 10px; padding: 10px 50px; border-radius: 100px; background: grey}
+.red, .orange, .green{border: solid 10px; padding: 50px; border-radius: 100px; background: ghostwhite;}
